@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/daniel-house-create/osTicket-Post-Install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/daniel-house-create/osTickets-Tickets)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/daniel-house-create/active-directory-setup)
 
 <h2>🤳Connect with me:</h2>
 
