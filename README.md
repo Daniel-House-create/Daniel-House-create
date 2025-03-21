@@ -6,9 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/daniel-house-create/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/daniel-house-create/osTicket-Post-Install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/daniel-house-create/osTickets-Tickets)
-- <b>Microsoft Azure</b>
+- <b>Active Directory using Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/daniel-house-create/active-directory-setup)
   - [Group Policy Management Active Directory with Azure VMs](https://github.com/daniel-house-create/gp-management-ad)
+  - [DNS Cache and Creating CNAME with Azure VMs](
+  - [Network Sharing in Active Directory with Azure VMs](
 
 <h2>🤳Connect with me:</h2>
 
