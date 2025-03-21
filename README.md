@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/daniel-house-create/active-directory-setup)
   - [Group Policy Management Active Directory with Azure VMs](https://github.com/daniel-house-create/gp-management-ad)
   - [DNS Cache and Creating CNAME with Azure VMs](https://github.com/Daniel-House-create/DNSITCC)
-  - [Network Sharing in Active Directory with Azure VMs](
+  - [Network Sharing in Active Directory with Azure VMs](https://github.com/Daniel-House-create/network-sharing)
 
 <h2>🤳Connect with me:</h2>
 
