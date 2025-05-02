@@ -7,7 +7,7 @@
 - <b>Active Directory using Microsoft Azure</b>
   - [Configuring On-premises, Group Management, DNS Activities, and Network Sharing]([https://github.com/daniel-house-create/active-directory-setup](https://github.com/Daniel-House-create/Projects/tree/main/Active%20Directory)
 - <b>Building and Configuring a VLAN network for a small organization in Cisco Packet Tracer</b>
-  - [VLAN Topology and Configuration]([(https://github.com/Daniel-House-create/NetworkVLAN/blob/main/README.md))
+  - [VLAN Topology and Configuration](https://github.com/Daniel-House-create/NetworkVLAN/blob/main/README.md)](https://github.com/Daniel-House-create/NetworkVLAN)
 
 <h2>🤳Connect with me:</h2>
 
