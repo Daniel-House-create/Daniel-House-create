@@ -6,9 +6,6 @@
   - [osTicket: Prerequisites and Installation, Post-Installation, and Lifecycle Examples]([https://github.com/daniel-house-create/osTicket-Installation](https://github.com/Daniel-House-create/Projects/tree/main/osTicket)
 - <b>Active Directory using Microsoft Azure</b>
   - [Configuring On-premises, Group Management, DNS Activities, and Network Sharing]([https://github.com/daniel-house-create/active-directory-setup](https://github.com/Daniel-House-create/Projects/tree/main/Active%20Directory)
-  - [Group Policy Management Active Directory with Azure VMs](https://github.com/daniel-house-create/gp-management-ad)
-  - [DNS Cache and Creating CNAME with Azure VMs](https://github.com/Daniel-House-create/DNSITCC)
-  - [Network Sharing in Active Directory with Azure VMs](https://github.com/Daniel-House-create/network-sharing)
 - <b>Building and Configuring a VLAN network for a small organization in Cisco Packet Tracer</b>
   - [VLAN Topology and Configuration]([(https://github.com/Daniel-House-create/NetworkVLAN/blob/main/README.md))
 
