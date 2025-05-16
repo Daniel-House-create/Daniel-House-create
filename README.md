@@ -1,5 +1,9 @@
 <h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
+<p>
+Below are the projects involving osTicket, Active Directory, and building and configuring a VLAN network.
+</p>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
